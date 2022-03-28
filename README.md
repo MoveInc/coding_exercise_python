@@ -1,6 +1,6 @@
-# Anagram Finder Python CLI exercise
+# Anagram Finder Python exercise
 
-This notional exercise implements a basic CLI which returns all anagrams of a given word based on an internal word dictionary. At least, that's what it's supposed to do. Continue reading for more details.
+This notional exercise implements a basic API which returns all anagrams of a given word based on an internal word dictionary. At least, that's what it's supposed to do. Continue reading for more details.
 
 ## Development
 
