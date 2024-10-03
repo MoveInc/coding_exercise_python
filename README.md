@@ -19,7 +19,9 @@ After starting the server, the REST endpoint can be invoked using http://localho
 
 ## Problems
 
-The project was abandoned before it could be completed.  It currently has the following issues:
+This project has the following issues:
 
 * The included unit test fails
-* Command does not return correct results
+* The endpoint doesn't return correct results
+
+Please ensure all problems are resolved as part of this exercise.
